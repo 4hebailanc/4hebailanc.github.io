@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://4hebailanc.github.io/sitemap.xml
+Sitemap: https://bailanhe.github.io/sitemap.xml
