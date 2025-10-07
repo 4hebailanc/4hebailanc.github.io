@@ -90,16 +90,6 @@ h2 {
 .social-icons i {
   font-size: 0.8em !important;
 }
-
-/* Hide automatic date display in news */
-.news .date,
-.news .post-date,
-.news time,
-.news .post-meta,
-.news .post-meta .date {
-  display: none !important;
-}
-
 </style>
 
 <script>
